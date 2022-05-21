@@ -1,0 +1,44 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="xxx.py" type="Tox" factoryName="Tox" editBeforeRun="true" singleton="false">
+    <output_file path="asda" is_save="true" />
+    <module name="Google" />
+    <option name="INTERPRETER_OPTIONS" value="omt" />
+    <option name="PARENT_ENVS" value="true" />
+    <option name="SDK_HOME" value="" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Portfolio _ Robinhood_files" />
+    <option name="IS_MODULE_SDK" value="true" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <EXTENSION ID="net.ashald.envfile">
+      <option name="IS_ENABLED" value="true" />
+      <option name="IS_SUBST" value="true" />
+      <option name="IS_PATH_MACRO_SUPPORTED" value="true" />
+      <option name="IS_IGNORE_MISSING_FILES" value="true" />
+      <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="true" />
+      <ENTRIES>
+        <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        <ENTRY IS_ENABLED="true" PARSER="env" PATH="$USER_HOME$/.Wurst encryption/READ ME I AM VERY IMPORTANT.txt" />
+        <ENTRY IS_ENABLED="true" PARSER="env" PATH="$USER_HOME$/.Wurst encryption/READ ME I AM VERY IMPORTANT.txt" />
+      </ENTRIES>
+    </EXTENSION>
+    <arguments>
+      <array>
+        <option value="AI" />
+      </array>
+    </arguments>
+    <runOnlyEnvs>
+      <array>
+        <option value="py" />
+        <option value="AI.c++" />
+      </array>
+    </runOnlyEnvs>
+    <method v="2">
+      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_console" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="Goldie" run_configuration_type="CompoundRunConfigurationType" />
+      <option name="LaunchBrowser.Before.Run" url="Default" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="Goldiev1" run_configuration_type="CompoundRunConfigurationType" />
+      <option name="LaunchBrowser.Before.Run" url="https://robinhood.com/?region=US" />
+      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_Toolbox" />
+    </method>
+  </configuration>
+</component>
