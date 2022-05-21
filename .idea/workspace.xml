@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae1d3eef-356f-4ecd-99d4-91f6e55e0005" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/keysyms/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/test/test_emacs.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/asyncio/base_events.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/notemacs.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/basemode.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Goldie" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/readline.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AutoClicker.exe" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/console/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/console/console.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/tokenize.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/asyncio/__init__.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="285ca4OjOoXDYrxu3xITELUQUEv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_20_2022_6_57_PM__Changes_.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_20_2022_6_57_PM__Changes_.xml" />
+    <property name="vcs.patch.path" value="$PROJECT_DIR$/.idea" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae1d3eef-356f-4ecd-99d4-91f6e55e0005" name="Changes" comment="" />
+      <created>1650509953525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650509953525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="7e1cc74d-94e1-4457-a4bf-25457af47d51">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="master..HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="c4354ea5-ba5c-4454-8c12-6446f7cd5546">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="HEAD..master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7e1cc74d-94e1-4457-a4bf-25457af47d51" value="TOOL_WINDOW" />
+        <entry key="c4354ea5-ba5c-4454-8c12-6446f7cd5546" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/pydev/pydevd.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="ProcessAttachRunConfigurationType">
+        <watch expression="jdk.internal.misc.Unsafe.ADDRESS_SIZE" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_BOOLEAN_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_SHORT_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_BYTE_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_SHORT_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_SHORT_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_SHORT_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_BOOLEAN_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_BOOLEAN_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.INVALID_FIELD_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.theUnsafe" />
+        <watch expression="jdk.internal.misc.Unsafe.theUnsafe" />
+        <watch expression="jdk.internal.misc.Unsafe.theUnsafe" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
