@@ -1,0 +1,72 @@
+Index: Goldie
+===================================================================
+diff --git a/Goldie b/Goldie
+new file mode 100644
+--- /dev/null	
++++ b/Goldie	
+@@ -0,0 +1,1 @@
++
+Index: .idea/runConfigurations/xxx_py.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><component name=\"ProjectRunConfigurationManager\">\r\n  <configuration default=\"false\" name=\"xxx.py\" type=\"Tox\" factoryName=\"Tox\" editBeforeRun=\"true\" singleton=\"false\">\r\n    <output_file path=\"asda\" is_save=\"true\" />\r\n    <module name=\"Google\" />\r\n    <option name=\"INTERPRETER_OPTIONS\" value=\"omt\" />\r\n    <option name=\"PARENT_ENVS\" value=\"true\" />\r\n    <option name=\"SDK_HOME\" value=\"\" />\r\n    <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Portfolio _ Robinhood_files\" />\r\n    <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n    <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n    <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n    <EXTENSION ID=\"net.ashald.envfile\">\r\n      <option name=\"IS_ENABLED\" value=\"true\" />\r\n      <option name=\"IS_SUBST\" value=\"true\" />\r\n      <option name=\"IS_PATH_MACRO_SUPPORTED\" value=\"true\" />\r\n      <option name=\"IS_IGNORE_MISSING_FILES\" value=\"true\" />\r\n      <option name=\"IS_ENABLE_EXPERIMENTAL_INTEGRATIONS\" value=\"true\" />\r\n      <ENTRIES>\r\n        <ENTRY IS_ENABLED=\"true\" PARSER=\"runconfig\" />\r\n        <ENTRY IS_ENABLED=\"true\" PARSER=\"env\" PATH=\"$USER_HOME$/.Wurst encryption/READ ME I AM VERY IMPORTANT.txt\" />\r\n        <ENTRY IS_ENABLED=\"true\" PARSER=\"env\" PATH=\"$USER_HOME$/.Wurst encryption/READ ME I AM VERY IMPORTANT.txt\" />\r\n      </ENTRIES>\r\n    </EXTENSION>\r\n    <arguments>\r\n      <array>\r\n        <option value=\"AI\" />\r\n      </array>\r\n    </arguments>\r\n    <runOnlyEnvs>\r\n      <array>\r\n        <option value=\"py\" />\r\n        <option value=\"AI.c++\" />\r\n      </array>\r\n    </runOnlyEnvs>\r\n    <method v=\"2\">\r\n      <option name=\"ToolBeforeRunTask\" enabled=\"true\" actionId=\"Tool_External Tools_console\" />\r\n      <option name=\"LaunchBrowser.Before.Run\" url=\"Default\" />\r\n      <option name=\"RunConfigurationTask\" enabled=\"true\" run_configuration_name=\"Goldiev1\" run_configuration_type=\"CompoundRunConfigurationType\" />\r\n      <option name=\"LaunchBrowser.Before.Run\" url=\"https://robinhood.com/?region=US\" />\r\n      <option name=\"ToolBeforeRunTask\" enabled=\"true\" actionId=\"Tool_External Tools_Toolbox\" />\r\n    </method>\r\n  </configuration>\r\n</component>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/runConfigurations/xxx_py.xml b/.idea/runConfigurations/xxx_py.xml
+--- a/.idea/runConfigurations/xxx_py.xml	
++++ b/.idea/runConfigurations/xxx_py.xml	
+@@ -2,9 +2,9 @@
+   <configuration default="false" name="xxx.py" type="Tox" factoryName="Tox" editBeforeRun="true" singleton="false">
+     <output_file path="asda" is_save="true" />
+     <module name="Google" />
+-    <option name="INTERPRETER_OPTIONS" value="omt" />
++    <option name="INTERPRETER_OPTIONS" value="" />
+     <option name="PARENT_ENVS" value="true" />
+-    <option name="SDK_HOME" value="" />
++    <option name="SDK_HOME" value="D:\Testing\python.exe" />
+     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Portfolio _ Robinhood_files" />
+     <option name="IS_MODULE_SDK" value="true" />
+     <option name="ADD_CONTENT_ROOTS" value="true" />
+Index: .idea/runConfigurations/Goldie.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><component name=\"ProjectRunConfigurationManager\">\r\n  <configuration default=\"false\" name=\"Goldie\" type=\"CompoundRunConfigurationType\">\r\n    <toRun name=\"Unnamed (1)\" type=\"CompoundRunConfigurationType\" />\r\n    <toRun name=\"Unnamed (2)\" type=\"CompoundRunConfigurationType\" />\r\n    <method v=\"2\" />\r\n  </configuration>\r\n</component>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/runConfigurations/Goldie.xml b/.idea/runConfigurations/Goldie.xml
+--- a/.idea/runConfigurations/Goldie.xml	
++++ b/.idea/runConfigurations/Goldie.xml	
+@@ -1,7 +1,6 @@
+ <component name="ProjectRunConfigurationManager">
+   <configuration default="false" name="Goldie" type="CompoundRunConfigurationType">
+-    <toRun name="Unnamed (1)" type="CompoundRunConfigurationType" />
+-    <toRun name="Unnamed (2)" type="CompoundRunConfigurationType" />
++    <toRun name="scratch" type="PythonConfigurationType" />
+     <method v="2" />
+   </configuration>
+ </component>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_16\" project-jdk-name=\"Python 3.9\" project-jdk-type=\"Python SDK\" />\r\n  <component name=\"TaskProjectConfiguration\">\r\n    <server type=\"Redmine\" url=\"http://Google.com\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	
++++ b/.idea/misc.xml	
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
+-  <component name="TaskProjectConfiguration">
+-    <server type="Redmine" url="http://Google.com" />
++  <component name="FrameworkDetectionExcludesConfiguration">
++    <type id="android" />
+   </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file

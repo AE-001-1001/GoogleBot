@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Goldie" type="CompoundRunConfigurationType">
+    <toRun name="Unnamed (1)" type="CompoundRunConfigurationType" />
+    <toRun name="Unnamed (2)" type="CompoundRunConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>

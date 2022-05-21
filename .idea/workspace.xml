@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< HEAD
+  <component name="ChangeListManager"><![CDATA[
+    ]]><list default="true" id="ae1d3eef-356f-4ecd-99d4-91f6e55e0005" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1FRGTAIV.CT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACLib/playback.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACLib/record.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACLib/stop.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADELib/999_conf.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADELib/ACA_conf.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coverage-999999.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap-20220329T234512.heapprofile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(10).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(11).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(12).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(13).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(14).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(15).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(16).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(17).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(18).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(19).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(20).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(21).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(22).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(23).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(24).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(25).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(26).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(27).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(28).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(6).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(7).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(8).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x(9).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/App.de99f81dc78bb49735d7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/Mask_Group(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/Mask_Group(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/Mask_Group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/Mask_Group__1_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/Vendor-206a0f6e243890d7b25e.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/analytics.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/b.length)ge(xhr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/investingmythbusters.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/runtime-2650508acc95638c2c2a.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/userleap-web-controller-sdk-v1.8.0.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/whatareyourgoals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/whatcanyouinvestin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/whatsthestockmarket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/whattoknowaboutcrypto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/whyinvest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio _ Robinhood_files/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profile-20220330T024942.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profile-20220330T084732.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver_win32.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dotnet-sdk-6.0.201-win-x86.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fearlessrevolution (1).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fearlessrevolution.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts_CapsuleSansText-Book__ece4dfe7c8753c6ed9e4ede8ad811074.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_history.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_history1.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_history2.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_history3.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pycharm-community-2021.3.3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robinhood.com.har" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unMineable.Miner.1.1.0-beta-mfi.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www.google.com.har" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Create_Goldie.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_20_2022_10_07_PM_[Changes]/AutoClicker (1).exe" beforeDir="false" afterPath="$PROJECT_DIR$/AutoClicker (1).exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_20_2022_10_07_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_20_2022_10_07_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_20_2022_6_57_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_20_2022_6_57_PM_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_20_2022_6_57_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_20_2022_6_57_PM__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goldie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Profile-20220420T223144.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coverage-20220330T013930.json" afterDir="false" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32c4c70a-c867-4af1-87af-a30d50d45e3d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+>>>>>>> origin/VerbalKill-patch-1
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+<<<<<<< HEAD
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="A4" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+=======
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="VerbalKill &lt;102845355+verbalkill@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+>>>>>>> origin/VerbalKill-patch-1
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+<<<<<<< HEAD
+        <entry key="$PROJECT_DIR$" value="master1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AutoClicker.exe" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/asyncio/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/asyncio/base_events.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/console/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/console/console.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/keysyms/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/basemode.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/notemacs.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/test/test_emacs.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/readline.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site.py" root0="SKIP_INSPECTION" />
+=======
+        <entry key="$PROJECT_DIR$" value="A12" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/keysyms/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/test/test_emacs.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/asyncio/base_events.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/notemacs.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_12_2022_12_41_AM/git-lfs-windows-v3.1.2.exe" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/basemode.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Goldie" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/readline.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AutoClicker.exe" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/console/__init__.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/console/console.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/tokenize.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Testing/Lib/asyncio/__init__.py" root0="SKIP_INSPECTION" />
+>>>>>>> origin/VerbalKill-patch-1
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="285ca4OjOoXDYrxu3xITELUQUEv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+=======
+  <component name="ProjectId" id="28548Lq1taAgaiUPkshCjCYulU5" />
+  <component name="ProjectLevelVcsManager">
+>>>>>>> origin/VerbalKill-patch-1
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "instant.run"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="AndroidTestRunConfigurationType" />
+        <option value="PythonConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Remote JVM Debug.TestAI">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Google" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Google" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Google" />
+=======
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../D" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="kite.configurable" />
+    <property name="vcs.patch.path" value="$PROJECT_DIR$/.idea" />
+  </component>
+  <component name="RunManager">
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> origin/VerbalKill-patch-1
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+<<<<<<< HEAD
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+=======
+      <option name="SDK_HOME" value="C:\Users\andjo\AppData\Local\JetBrains\PyCharmCE2021.3\demo\PyCharmLearningProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+>>>>>>> origin/VerbalKill-patch-1
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Google" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Compound.Goldie" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Remote JVM Debug.TestAI" />
+      <item itemvalue="tox.xxx.py" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\andjo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae1d3eef-356f-4ecd-99d4-91f6e55e0005" name="Changes" comment="" />
+      <created>1650509953525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650509953525</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659268857</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659268857</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659274002</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659274002</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659310680</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659310680</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659321638</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659321638</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659326257</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659326257</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659330597</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659330597</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659336229</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659336229</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659339989</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659339989</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659348138</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659348138</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659351339</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659351339</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659354909</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659354909</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659359572</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659359572</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659400561</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659400561</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659411941</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659411941</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659426710</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659426710</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659430960</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659430960</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659434124</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659434124</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659439634</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659439634</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659443696</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659443696</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659450373</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659450373</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659452091</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659452093</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659453327</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659453327</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659454837</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659454837</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659459172</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659459172</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659463567</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659463567</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659468517</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659468518</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659472325</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659472325</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659486482</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659486482</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659492936</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659492936</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659497332</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659497332</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659501128</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659501128</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659507630</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659507630</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659737001</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659737001</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650659750407</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1650659750407</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660120401</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660120401</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660123876</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660123876</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660127574</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660127574</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660155003</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660155003</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660225173</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660225173</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660229056</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660229056</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660235234</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660235234</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660239033</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660239033</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660244084</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660244084</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660247865</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660247865</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660255306</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660255306</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660260848</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660260848</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660267551</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660267551</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660270977</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660270977</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Merge remote-tracking branch 'origin/master1' into master1">
+      <created>1650660274261</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1650660274261</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
+=======
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32c4c70a-c867-4af1-87af-a30d50d45e3d" name="Changes" comment="" />
+      <created>1650493733555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650493733555</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Create Goldie">
+      <created>1650494056194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650494056194</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create Goldie">
+      <created>1650494367088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650494367088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create Goldie">
+      <created>1650494442201</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650494442201</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create Goldie">
+      <created>1650494783526</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650494783526</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create Goldie">
+      <created>1650495165677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650495165677</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+>>>>>>> origin/VerbalKill-patch-1
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+<<<<<<< HEAD
+        <entry key="2a633b5e-158e-43cf-8349-309a302ac01b">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="20cb16b2eaa0b0085f3660168807718d32942b3a..e348200e39d017253d7e4d38237593d1ead5d5ce" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="7e1cc74d-94e1-4457-a4bf-25457af47d51">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="master..HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+=======
+>>>>>>> origin/VerbalKill-patch-1
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+<<<<<<< HEAD
+        <entry key="c4354ea5-ba5c-4454-8c12-6446f7cd5546">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="HEAD..master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="2a633b5e-158e-43cf-8349-309a302ac01b" value="TOOL_WINDOW" />
+        <entry key="7e1cc74d-94e1-4457-a4bf-25457af47d51" value="TOOL_WINDOW" />
+        <entry key="c4354ea5-ba5c-4454-8c12-6446f7cd5546" value="TOOL_WINDOW" />
+=======
+>>>>>>> origin/VerbalKill-patch-1
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="jjfgffffff" />
+    <MESSAGE value="fixup! 34567" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master1' into master1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master1' into master1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/pydev/pydevd.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="ProcessAttachRunConfigurationType">
+        <watch expression="jdk.internal.misc.Unsafe.ADDRESS_SIZE" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_BOOLEAN_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_SHORT_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_BYTE_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_SHORT_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_SHORT_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_SHORT_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_BOOLEAN_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.ARRAY_BOOLEAN_BASE_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.INVALID_FIELD_OFFSET" />
+        <watch expression="jdk.internal.misc.Unsafe.theUnsafe" />
+        <watch expression="jdk.internal.misc.Unsafe.theUnsafe" />
+        <watch expression="jdk.internal.misc.Unsafe.theUnsafe" />
+      </configuration>
+    </watches-manager>
+=======
+    <MESSAGE value="Create Goldie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Goldie" />
+>>>>>>> origin/VerbalKill-patch-1
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
