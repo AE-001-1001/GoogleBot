@@ -1,0 +1,15 @@
+Index: .idea/codeStyles/codeStyleConfig.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/codeStyles/codeStyleConfig.xml b/.idea/codeStyles/codeStyleConfig.xml
+--- a/.idea/codeStyles/codeStyleConfig.xml	(revision 8a6eecf98534b64c73391767f9c2fe584df9227f)
++++ b/.idea/codeStyles/codeStyleConfig.xml	(date 1649739556073)
+@@ -1,0 +1,5 @@
++<component name="ProjectCodeStyleConfiguration">
++  <state>
++    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
++  </state>
++</component>
+\ No newline at end of file
