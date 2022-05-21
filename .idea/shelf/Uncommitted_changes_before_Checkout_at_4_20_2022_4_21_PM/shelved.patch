@@ -1,0 +1,15 @@
+Index: .idea/artifacts/Test.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><component name=\"ArtifactManager\">\r\n  <artifact type=\"javafx-preloader\" name=\"Test\">\r\n    <output-path>$PROJECT_DIR$/out/artifacts/Test</output-path>\r\n    <root id=\"archive\" name=\"Test.jar\" />\r\n  </artifact>\r\n</component>
+===================================================================
+diff --git a/.idea/artifacts/Test.xml b/.idea/artifacts/Test.xml
+--- a/.idea/artifacts/Test.xml	
++++ b/.idea/artifacts/Test.xml	
+@@ -1,5 +1,5 @@
+ <component name="ArtifactManager">
+-  <artifact type="javafx-preloader" name="Test">
++  <artifact type="javafx-preloader" build-on-make="true" name="Test">
+     <output-path>$PROJECT_DIR$/out/artifacts/Test</output-path>
+     <root id="archive" name="Test.jar" />
+   </artifact>
