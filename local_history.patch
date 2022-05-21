@@ -1,0 +1,38 @@
+Index: .idea/discord.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/discord.xml b/.idea/discord.xml
+--- a/.idea/discord.xml	(date 1648663623832)
++++ b/.idea/discord.xml	
+@@ -1,7 +1,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="DiscordProjectSettings">
+-    <option name="show" value="PROJECT_FILES" />
+-    <option name="description" value="" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/discord.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/discord.xml b/.idea/discord.xml
+--- a/.idea/discord.xml	(date 1648663623832)
++++ b/.idea/discord.xml	com.intellij.openapi.diff.impl.patch.CharsetEP
+                        <+>UTF-8
+                        com.intellij.openapi.diff.impl.patch.CharsetEP
+                        <+>UTF-8
+
+
+
+
+
+
+
+com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-9
+
