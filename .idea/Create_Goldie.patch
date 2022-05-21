@@ -1,0 +1,11 @@
+Index: Goldie
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Goldie b/Goldie
+new file mode 100644
+--- /dev/null	(revision 9fdddab7e955cd05f293087f05047862ee571ef8)
++++ b/Goldie	(revision 9fdddab7e955cd05f293087f05047862ee571ef8)
+@@ -0,0 +1,1 @@
++
