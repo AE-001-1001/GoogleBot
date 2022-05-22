@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1d3eef-356f-4ecd-99d4-91f6e55e0005" name="Changes" comment="jjfgffffff">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="32c4c70a-c867-4af1-87af-a30d50d45e3d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +14,11 @@
     <option name="BRANCH" value="A4" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AndrewOMA &lt;102845355+verbalkill@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
@@ -26,22 +32,10 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AutoClicker.exe" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/asyncio/__init__.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/asyncio/base_events.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/__init__.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/console/__init__.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/console/console.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/keysyms/__init__.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/__init__.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/basemode.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/modes/notemacs.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/pyreadline/test/test_emacs.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/../Testing/Lib/site-packages/readline.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,10 +49,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Andrew/Downloads"
+  }
+}]]></component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -127,25 +124,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ae1d3eef-356f-4ecd-99d4-91f6e55e0005" name="Changes" comment="" />
+      <changelist id="32c4c70a-c867-4af1-87af-a30d50d45e3d" name="Changes" comment="" />
       <created>1650509953525</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650509953525</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Merge remote-tracking branch 'origin/master1' into master1">
-      <created>1650659351339</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1650659351339</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Merge remote-tracking branch 'origin/master1' into master1">
-      <created>1650659354909</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1650659354909</updated>
     </task>
     <task id="LOCAL-00041" summary="Merge remote-tracking branch 'origin/master1' into master1">
       <created>1650659359572</created>
@@ -476,8 +459,25 @@
       <option name="project" value="LOCAL" />
       <updated>1650841852492</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Improve">
+      <created>1653326402862</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1653326402863</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Improve">
+      <created>1653326456926</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1653326456926</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -563,12 +563,20 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CODE_SMELLS_PROFILE" value="Default" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Default" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="fixup! 34567" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master1' into master1" />
     <MESSAGE value="jjfgffffff" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Create Goldie" />
+    <MESSAGE value="Improve" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improve" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
